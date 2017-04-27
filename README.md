@@ -16,6 +16,14 @@ Add this to your `pom.xml` and you're good to go:
             </snapshots>
         </repository>
     </repositories>
+    
+And this dependency:
+
+    <dependency>
+        <groupId>me.alidg</groupId>
+        <artifactId>string-utils</artifactId>
+        <version>0.0.1</version>
+    </dependency>
 
 
 [1]: http://stackoverflow.com/a/14013645/1393484
